@@ -1,6 +1,6 @@
 # 🚲 BikeStores Executive Sales Dashboard
 
-![Dashboard Preview](BikeStores_Sale_Analysis/Dashboard preview.png)
+![Dashboard Preview]((https://github.com/ak-dataanalytics/BikeStores_Sale_Analysis/blob/main/Dashboard%20preview.png))
 
 ## 📌 Project Overview
 
